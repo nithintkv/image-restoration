@@ -1,3 +1,5 @@
+# Image Restoration
+
 To run the project system should have installed pyhon and some of its libraries like cv2, tkinter, matplotlib
 
 Steps to run the project:
